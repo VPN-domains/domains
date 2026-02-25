@@ -10,7 +10,7 @@ system_proxy.txt
 
 * YouTube и Discord — они добавлены в исключения, чтобы трафик шел напрямую. Это необходимо для работы программы [zapret](https://github.com/Flowseal/zapret-discord-youtube/releases), которая конфликтует с прокси/VPN на этих ресурсах.
 
-  *Если вы не используете zapret, то домены YouTube и Discord можно добавить в domens.txt.*
+  *Если вы не используете zapret, то домены YouTube и Discord можно добавить в domens.txt. В системный прокси можно добавить не только Ютуб и Дискорд, но и другие домены, работу которых обеспечивает zapret.*
 
 ----
 
